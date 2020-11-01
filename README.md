@@ -5,6 +5,9 @@
 
 to create professional readme documents for future projects using NPM inquirer.
 
+walkthrough link: https://drive.google.com/file/d/1W4S78Z-JWpp5lzMt4BxReOpPykxKWrAh/view
+example link : https://drive.google.com/file/d/1clDy8PND_LERCCx3uir_axn0TXSgdLkX/view
+
 ## Table of Contents
 
 *[Installation](#installation)
