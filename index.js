@@ -6,7 +6,7 @@ const path = require("path");
 //inquirer allows us to use inquirer package installed
 const inquirer = require("inquirer");
 //utility page
-const generateMarketdown = require("./utils/generateMarkdown");
+const generateMarketdown = require("./Develop/utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
