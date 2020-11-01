@@ -3,7 +3,7 @@
 
 ## Description
 
-to create professional readme documents for future projects
+to create professional readme documents for future projects using NPM inquirer.
 
 ## Table of Contents
 
